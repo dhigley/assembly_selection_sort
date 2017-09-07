@@ -1,0 +1,29 @@
+i = 5
+i = 7
+i = 13
+Program ended with exit code: 0
+
+i = 11
+i = 13
+i = 29
+i = 59
+Program ended with exit code: 0
+
+i = 3
+i = 5
+i = 11
+i = 23
+i = 43
+i = 89
+i = 179
+i = 359
+i = 719
+Program ended with exit code: 0
+
+i = 307
+i = 311
+i = 619
+i = 1249
+i = 2503
+i = 4993
+Program ended with exit code: 0
